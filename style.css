@@ -1,0 +1,89 @@
+body{
+
+}
+
+nav{
+    overflow: hidden;
+    background-color: #7E252A;
+    position: fixed;
+    top: 0; 
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+a.menu{
+    color: white;
+    font-size: 24px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+h1{
+    text-align: center;
+    font-size: 72px;
+}
+
+h2{
+    margin-top: 50px;
+    text-align: center;
+}
+
+img#coverimage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+/**special formatting**/
+
+#description{
+    margin-top: 30px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.button{
+    background-color: #7E252A;
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    
+}
+
+a.button{
+    color: white;
+    font-size: px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.manga{
+    text-align: center;
+}
+
+img.manga{
+    width:300px;
+    margin-left: 30px;
+}
+
+div.chara{
+    margin-left:100px;
+    margin-right:100px;
+    text-align: left;
+}
+
+img.chara{
+    width: 100px;
+    float:left;
+    margin-right: 40px;
+}
+
+iframe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
